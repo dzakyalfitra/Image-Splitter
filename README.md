@@ -45,5 +45,10 @@ pip install opencv-python
 ## 🎯 Use Case: Deep Learning Dataset Preparation
 Creating large datasets for deep learning requires thousands of individual images. Instead of manually cropping each object, you can place objects in a grid, take a single high-resolution photo, and use this script to extract all objects perfectly in seconds.
 
+## 🔗 Related Projects
+
+- **[Auto-Image-Labeling](https://github.com/dzakyalfitra/Auto-Image-Labeling)** — Automated bounding box label generation using OpenCV and Otsu's thresholding, with YOLO-format export.
+- **[Mosaic-Packed-Generator](https://github.com/dzakyalfitra/Mosaic-Packed-Generator)** — Creates dense, packed mosaics from individual object instances with accurate YOLO label mapping.
+
 ---
 *Created for efficient dataset engineering.*
